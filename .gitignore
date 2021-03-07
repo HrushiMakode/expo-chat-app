@@ -14,7 +14,7 @@ firebaseAPIkey.js
 
 ## Web hosting
 
-.firebaserc
+*.firebaserc
 .firebasejson
 
 # macOS
