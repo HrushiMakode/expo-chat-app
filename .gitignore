@@ -12,5 +12,10 @@ web-build/
 # Firebase API KEYs
 firebaseAPIkey.js
 
+## Web hosting
+
+.firebaserc
+.firebasejson
+
 # macOS
 .DS_Store
